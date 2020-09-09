@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://pinkliang.github.io/sitemap.xml
