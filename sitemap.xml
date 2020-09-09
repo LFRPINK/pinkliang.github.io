@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://pinkliang.github.io/categories/</loc>
+    <loc>https://pinkliang.github.io/</loc>
+    <lastmod>2020-09-09T21:08:36+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://pinkliang.github.io/</loc>
+    <loc>https://pinkliang.github.io/post/my-first-post/</loc>
+    <lastmod>2020-09-09T21:08:36+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pinkliang.github.io/post/</loc>
+    <lastmod>2020-09-09T21:08:36+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pinkliang.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
